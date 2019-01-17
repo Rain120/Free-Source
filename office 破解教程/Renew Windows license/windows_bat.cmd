@@ -1,0 +1,1 @@
+cscript slmgr.vbs /ato
