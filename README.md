@@ -1,7 +1,16 @@
 # Free-Source
     分享资源
-    
+
+
+* 2019-01-17 增加office16 专业版 office 19 Visio16 Visio19
+* 2019-01-17 增加Git Bash for Window下载
+
+[Git Bash for Windows 32](https://github.com/Rain120/Free-Source/releases/download/0.0.1/Git-2.18.0-32-bit.exe)
+
+[Git Bash for Windows 64](https://github.com/Rain120/Free-Source/releases/download/0.0.1/Git-2.18.0-64-bit.exe)
+
 传送门：[office 2016专业版激活教程](https://github.com/Rain120/Free-Source/tree/master/office%20%E7%A0%B4%E8%A7%A3%E6%95%99%E7%A8%8B)
+
 # office 2016专业版激活教程
   - 进入office激活教程中选择自己的版本进入相应的文件夹，下载相应的bat.txt
   - 将bat.txt改为bat.cmd，默认是没有显示文件扩展名的，打开方式如下
