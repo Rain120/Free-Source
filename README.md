@@ -3,7 +3,10 @@
 
 
 * 2019-01-17 增加office16 专业版 office 19 Visio16 Visio19
+
 * 2019-01-17 增加Git Bash for Window下载
+
+* 2019-01-18 无需密钥，免费激活win10，win8, win8.1
 
 [Git Bash for Windows 32](https://github.com/Rain120/Free-Source/releases/download/0.0.1/Git-2.18.0-32-bit.exe)
 
