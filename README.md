@@ -9,6 +9,7 @@
 
 * 2019-01-18 无需密钥，免费激活win10，win8, win8.1
 
+不想去`Nginx`官网注册免费下载
 [The Complete NGINX Cookbook 高清免费下载](https://github.com/Rain120/Free-Source/releases/download/0.0.2/The.Complete.NGINX.Cookbook.pdf)
 
 [Git Bash for Windows 32](https://github.com/Rain120/Free-Source/releases/download/0.0.1/Git-2.18.0-32-bit.exe)
