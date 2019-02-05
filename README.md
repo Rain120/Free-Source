@@ -1,6 +1,8 @@
 # Free-Source
     分享资源
 
+* Docker技术入门与实战  第3版
+
 * 2019-01-25 增加The Complete NGINX Cookbook 2017版本 高清免费下载
 
 * 2019-01-17 增加office16 专业版 office 19 Visio16 Visio19
@@ -8,6 +10,8 @@
 * 2019-01-17 增加Git Bash for Window下载
 
 * 2019-01-18 无需密钥，免费激活win10，win8, win8.1
+
+[Docker技术入门与实战  第3版](https://github.com/Rain120/Free-Source/archive/0.0.3.zip)
 
 不想去`Nginx`官网注册免费下载
 [The Complete NGINX Cookbook 高清免费下载](https://github.com/Rain120/Free-Source/releases/download/0.0.2/The.Complete.NGINX.Cookbook.pdf)
