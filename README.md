@@ -1,7 +1,8 @@
 # Free-Source
     分享资源
+* 2019-02-08 图解HTTP 黑白印刷 日 上野宣著 人民邮电出版社 2014.05 250页
 
-* Docker技术入门与实战  第3版
+* 2019-02-05 Docker技术入门与实战  第3版
 
 * 2019-01-25 增加The Complete NGINX Cookbook 2017版本 高清免费下载
 
@@ -10,6 +11,8 @@
 * 2019-01-17 增加Git Bash for Window下载
 
 * 2019-01-18 无需密钥，免费激活win10，win8, win8.1
+
+[图解HTTP 黑白印刷 日 上野宣著 人民邮电出版社 2014.05 250页](https://github.com/Rain120/Free-Source/archive/0.0.4.zip)
 
 [Docker技术入门与实战  第3版](https://github.com/Rain120/Free-Source/archive/0.0.3.zip)
 
