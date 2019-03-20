@@ -1,5 +1,10 @@
 # Free-Source
     分享资源
+* 2019-03-20 程序员的数学(1, 2, 3) 
+* 2019-03-20 Navicat 12+ 破解教程及工具
+* 2019-03-01 Python游戏编程快速上手
+* 2019-03-01 算法导论 第三版 
+* 2019-03-01 数据结构与算法JavaScript描述
 * 2019-02-08 图解HTTP 黑白印刷 日 上野宣著 人民邮电出版社 2014.05 250页
 
 * 2019-02-05 Docker技术入门与实战  第3版
@@ -11,6 +16,18 @@
 * 2019-01-17 增加Git Bash for Window下载
 
 * 2019-01-18 无需密钥，免费激活win10，win8, win8.1
+
+#### 下载地址
+
+[程序员的数学(1, 2, 3)](https://github.com/Rain120/Free-Source/releases/tag/0.0.9)
+
+[Navicat 12+ 破解教程及工具](https://github.com/Rain120/Free-Source/releases/tag/0.0.8)
+
+[Python游戏编程快速上手](https://github.com/Rain120/Free-Source/releases/tag/0.0.7)
+
+[算法导论 第三版](https://github.com/Rain120/Free-Source/releases/tag/0.0.6)
+
+[数据结构与算法JavaScript描述](https://github.com/Rain120/Free-Source/releases/tag/0.0.5)
 
 [图解HTTP 黑白印刷 日 上野宣著 人民邮电出版社 2014.05 250页](https://github.com/Rain120/Free-Source/archive/0.0.4.zip)
 
