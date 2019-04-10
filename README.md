@@ -1,5 +1,7 @@
 # Free-Source
     分享资源
+* 2019-04-10 Web安全之深度学习实战
+* 2019-04-10 深度学习之TensorFlow：入门、原理与进阶实战
 * 2019-03-20 程序员的数学(1, 2, 3) 
 * 2019-03-20 Navicat 12+ 破解教程及工具
 * 2019-03-01 Python游戏编程快速上手
@@ -18,6 +20,10 @@
 * 2019-01-18 无需密钥，免费激活win10，win8, win8.1
 
 #### 下载地址
+
+[Web安全之深度学习实战](https://github.com/Rain120/Free-Source/releases/tag/0.0.11)
+
+[深度学习之TensorFlow：入门、原理与进阶实战](https://github.com/Rain120/Free-Source/releases/tag/0.0.10)
 
 [程序员的数学(1, 2, 3)](https://github.com/Rain120/Free-Source/releases/tag/0.0.9)
 
