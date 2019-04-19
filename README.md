@@ -5,6 +5,10 @@
 
 * 2019-04-10 [Web安全之深度学习实战](https://github.com/Rain120/Free-Source/releases/tag/0.0.11)
 
+* 2019-04-19 [代码整洁之道 中文完整版-带书签](https://github.com/Rain120/Free-Source/releases/tag/0.0.12)
+
+* 2019-04-10 [Web安全之深度学习实战](https://github.com/Rain120/Free-Source/releases/tag/0.0.11)
+
 * 2019-04-10 [深度学习之TensorFlow：入门、原理与进阶实战](https://github.com/Rain120/Free-Source/releases/tag/0.0.10)
 
 * 2019-03-20 [程序员的数学(1, 2, 3)](https://github.com/Rain120/Free-Source/releases/tag/0.0.9)
