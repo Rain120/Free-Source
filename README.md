@@ -3,8 +3,6 @@
 
 #### 下载地址
 
-* 2019-04-10 [Web安全之深度学习实战](https://github.com/Rain120/Free-Source/releases/tag/0.0.11)
-
 * 2019-04-19 [代码整洁之道 中文完整版-带书签](https://github.com/Rain120/Free-Source/releases/tag/0.0.12)
 
 * 2019-04-10 [Web安全之深度学习实战](https://github.com/Rain120/Free-Source/releases/tag/0.0.11)
