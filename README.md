@@ -3,6 +3,8 @@
 
 #### 下载地址
 
+* 2019-06-12 [FDC Conf 2019 PPT](https://github.com/Rain120/Free-Source/releases/tag/0.0.18)
+
 * 2019-06-09 [JavaScript设计模式与开发实践](https://github.com/Rain120/Free-Source/releases/tag/0.0.17)
 
 * 2019-05-19 [百度网盘不限速下载 -- PanDownload](https://github.com/Rain120/Free-Source/releases/tag/0.0.16)
