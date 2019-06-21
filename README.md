@@ -3,6 +3,8 @@
 
 #### 下载地址
 
+* 2019-06-21 [你不知道的JavaScript(中卷)](https://github.com/Rain120/Free-Source/releases/tag/0.0.20)
+
 * 2019-06-17 [你不知道的JavaScript(上卷)](https://github.com/Rain120/Free-Source/releases/tag/0.0.19)
 
 * 2019-06-12 [FDC Conf 2019 PPT](https://github.com/Rain120/Free-Source/releases/tag/0.0.18)
