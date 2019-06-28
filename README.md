@@ -6,6 +6,8 @@
 
 #### 下载地址
 
+* 2019-06-28 [SEO必知必会51技](https://github.com/Rain120/Free-Source/releases/tag/0.0.22)
+
 * 2019-06-22 [你不知道的JavaScript(下卷)](https://github.com/Rain120/Free-Source/releases/tag/0.0.21)
 
 * 2019-06-21 [你不知道的JavaScript(中卷)](https://github.com/Rain120/Free-Source/releases/tag/0.0.20)
