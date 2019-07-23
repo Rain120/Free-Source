@@ -1,4 +1,65 @@
-#### Navicat Premium 12+ 破解教程及工具
+#### Navicat Premium 12.1 + Mac 破解教程
+
+来源: [navicat-keygen](https://github.com/DoubleLabyrinth/navicat-keygen)
+
+```shell
+git clone git@github.com:DoubleLabyrinth/navicat-keygen.git
+```
+
+`homebrew` 安装库
+```shell
+brew install openssl
+brew install capstone
+brew install keystone
+brew install rapidjson
+```
+
+切换分支到`mac`
+
+![image](https://user-images.githubusercontent.com/20939839/61688376-6fbe1900-ad57-11e9-94b5-3df33a4c4e98.png)
+
+![image](https://user-images.githubusercontent.com/20939839/61688214-02aa8380-ad57-11e9-875f-b3569019422a.png)
+
+```shell
+git checkout mac
+
+make all
+
+ls bin
+```
+
+```
+备份好 Navicat Premium.app/Contents/MacOS/Navicat Premium 文件，以及 Navicat 中所有的数据库连接配置信息（包括密码）。
+删掉 Keychain.app 中所有由 Navicat 保存的密码。
+
+```
+
+生成证书
+
+![image](https://user-images.githubusercontent.com/20939839/61688427-91b79b80-ad57-11e9-97dc-90e4ca4e57bd.png)
+
+![image](https://user-images.githubusercontent.com/20939839/61688394-7cdb0800-ad57-11e9-997d-70aba6c3236c.png)
+
+```
+钥匙串访问 -> 证书助理 -> 创建证书
+
+codesign -f -s "navicat" /Applications/Navicat\ Premium.app
+```
+
+运行
+![image](https://user-images.githubusercontent.com/20939839/61688249-16ee8080-ad57-11e9-933e-6d655d07c34e.png)
+
+![image](https://user-images.githubusercontent.com/20939839/61688264-1f46bb80-ad57-11e9-83ae-cf76f6e31321.png)
+```shell
+./navicat-patcher /Applications/Navicat\ Premium.app/Contents/MacOS/Navicat\ Premium
+
+codesign -f -s "Navicat" /Applications/Navicat\ Premium.app/
+
+./navicat-keygen ./RegPrivateKey.pem
+```
+
+
+#### Navicat Premium 12+ windows 破解教程及工具
 
 ![image](https://user-images.githubusercontent.com/20939839/54656750-d9a48880-4b01-11e9-94cf-dfdef3b59d56.png)
 
