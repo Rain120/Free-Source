@@ -112,7 +112,7 @@
 
 ### <a id="Applications"></a>应用资源
 
-* 29=019-08-16 [Mac Tools](https://github.com/Rain120/Free-Source/tree/master/Mac%20Tools)
+* 2019-08-16 [Mac Tools](https://github.com/Rain120/Free-Source/tree/master/Mac%20Tools)
 
 * 2019-05-19 [百度网盘不限速下载 -- PanDownload](https://github.com/Rain120/Free-Source/releases/tag/0.0.16)
 
