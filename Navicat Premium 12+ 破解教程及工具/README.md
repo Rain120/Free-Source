@@ -1,6 +1,6 @@
 #### Navicat Premium 12.1 + Mac 破解教程
 
-来源: [navicat-keygen](https://github.com/DoubleLabyrinth/navicat-keygen)
+来源: [navicat-keygen](https://github.com/Rain120/Free-Source/blob/master/Mac%20Tools/navicat-keygen)
 
 ```shell
 git clone git@github.com:DoubleLabyrinth/navicat-keygen.git
@@ -90,4 +90,4 @@ codesign -f -s "Navicat" /Applications/Navicat\ Premium.app/
 ![image](https://user-images.githubusercontent.com/20939839/54656901-6d765480-4b02-11e9-990a-ebfb8701fdf5.png)
 
 
-[Github: Navicat_Keygen_Patch_By_DFoX](https://github.com/Deltafox79/Navicat_Keygen/tree/master/Navicat_Keygen_Patch_By_DFoX)
+~~[Github: Navicat_Keygen_Patch_By_DFoX](https://github.com/Deltafox79/Navicat_Keygen/tree/master/Navicat_Keygen_Patch_By_DFoX)~~

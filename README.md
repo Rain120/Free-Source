@@ -1,73 +1,146 @@
-# Free-Source
-  
-  分享资源
-    
-  如若有资源侵犯资源开发者的权益，请联系[本人](https://github.com/Rain120) (邮箱见Github首页)删除资源，谢谢
+<div align="center">
+  <h1 align="center">Free-Source</h1>
+  <br />
+  <h1 align="center">由于版本问题，即日起将下线所有书籍资源(资源文件已删除), 其他 Fork 资源也请主动删除，涉及版权问题与本人无关</h1>
+  <br />
+  <img align="center" src="./free-source.png" />
+  <h4 align="center">分享各类学习资源</h4>
+  <h4 align="center">如若有资源侵犯资源开发者的权益，请联系<a href="https://github.com/Rain120">本人(邮箱见Github首页)</a>删除资源，谢谢</h4>
+</div>
 
-#### 下载地址
+欢迎各位想把资源给别人请在`Pull Request`区域提 [![PRs](https://img.shields.io/badge/PRs-Welcome-orange)](https://github.com/Rain120/Free-Source/pulls)
+
+欢迎各位有需要资源在 `issue`区域提 [![Issue](https://img.shields.io/badge/Help-Welcome-brightgreen)](https://github.com/Rain120/Free-Source/issues)
+
+# 目录
+
+[Web](#Web)
+
+  - [HTML](#HTML)
+  
+  - [CSS](#CSS)
+  
+  - [JavaScript](#JavaScript)
+  
+[Git](#Git)
+
+[网络](#Network)
+
+[数学](#Math)
+
+[算法](#Algorithm)
+
+[Python](#Python)
+
+[Docker](#Docker)
+
+[Nginx](#Nginx)
+
+[Linux](#Linux)
+
+[机器学习](#Machine-Learn)
+
+[深度学习](#Deep-Learn)
+
+[面试](#Interview)
+
+[其他资源](#Others)
+
+[应用资源](#Applications)
+
+[破解教程](#Crack-Tutorial)
+
+[百度云盘不限速](#BDDisk-Download)
+
+## <a id="Web"></a>Web
 
 * 2019-06-28 [SEO必知必会51技](https://github.com/Rain120/Free-Source/releases/tag/0.0.22)
 
-* 2019-06-22 [你不知道的JavaScript(下卷)](https://github.com/Rain120/Free-Source/releases/tag/0.0.21)
-
-* 2019-06-21 [你不知道的JavaScript(中卷)](https://github.com/Rain120/Free-Source/releases/tag/0.0.20)
-
-* 2019-06-17 [你不知道的JavaScript(上卷)](https://github.com/Rain120/Free-Source/releases/tag/0.0.19)
-
 * 2019-06-12 [FDC Conf 2019 PPT](https://github.com/Rain120/Free-Source/releases/tag/0.0.18)
 
-* 2019-06-09 [JavaScript设计模式与开发实践](https://github.com/Rain120/Free-Source/releases/tag/0.0.17)
+### <a id="HTML"></a>HTML
 
-* 2019-05-19 [百度网盘不限速下载 -- PanDownload](https://github.com/Rain120/Free-Source/releases/tag/0.0.16)
+### <a id="CSS"></a>CSS
 
-* 2019-05-12 [深入理解Linux内核(完整版)中文版](https://github.com/Rain120/Free-Source/releases/tag/0.0.15)
+### <a id="JavaScript"></a>JavaScript
 
-* 2019-04-25 [JavaScript ES6函数式编程入门经典](https://github.com/Rain120/Free-Source/releases/tag/0.0.14)
+* 2020-06-20 ECMAScript® 2018 Language Specification.pdf 中文版 链接: https://pan.baidu.com/s/1FrfmdRgk6k_XQDYCWqcanA 提取码: 8dw8
 
-* 2019-04-19 [代码整洁之道 中文完整版-带书签](https://github.com/Rain120/Free-Source/releases/tag/0.0.13)
-
-* 2019-04-10 [Web安全之深度学习实战](https://github.com/Rain120/Free-Source/releases/tag/0.0.11)
-
-* 2019-04-10 [深度学习之TensorFlow：入门、原理与进阶实战](https://github.com/Rain120/Free-Source/releases/tag/0.0.10)
-
-* 2019-03-20 [程序员的数学(1, 2, 3)](https://github.com/Rain120/Free-Source/releases/tag/0.0.9)
-
-* 2019-03-20 [Navicat 12+ 破解教程及工具](https://github.com/Rain120/Free-Source/releases/tag/0.0.8)
-
-* 2019-03-01 [Python游戏编程快速上手](https://github.com/Rain120/Free-Source/releases/tag/0.0.7)
-
-* 2019-03-01 [算法导论 第三版](https://github.com/Rain120/Free-Source/releases/tag/0.0.6)
-
-* 2019-03-01 [数据结构与算法JavaScript描述](https://github.com/Rain120/Free-Source/releases/tag/0.0.5)
-
-* 2019-02-08 [图解HTTP 黑白印刷 日 上野宣著 人民邮电出版社 2014.05 250页](https://github.com/Rain120/Free-Source/archive/0.0.4.zip)
-
-* 2019-02-05 [Docker技术入门与实战  第3版](https://github.com/Rain120/Free-Source/archive/0.0.3.zip)
-
-* 2019-01-25 不想去`Nginx`官网注册免费下载 [The Complete NGINX Cookbook 高清免费下载](https://github.com/Rain120/Free-Source/releases/download/0.0.2/The.Complete.NGINX.Cookbook.pdf)
-
-* 2019-01-18 无需密钥，免费激活win10，win8, win8.1
+## <a id="Git"></a>Git
 
 * 2019-01-17 [Git Bash for Windows 32](https://github.com/Rain120/Free-Source/releases/download/0.0.1/Git-2.18.0-32-bit.exe)
 
 * 2019-01-17 [Git Bash for Windows 64](https://github.com/Rain120/Free-Source/releases/download/0.0.1/Git-2.18.0-64-bit.exe)
 
-传送门：[office 2016专业版激活教程](https://github.com/Rain120/Free-Source/tree/master/office%20%E7%A0%B4%E8%A7%A3%E6%95%99%E7%A8%8B)
+## <a id="Network"></a>网络
 
-# office 2016专业版激活教程
-  - 进入office激活教程中选择自己的版本进入相应的文件夹，下载相应的bat.txt
-  - 将bat.txt改为bat.cmd，默认是没有显示文件扩展名的，打开方式如下
+## <a id="Math"></a>数学
+
+
+## <a id="Algorithm"></a>算法
+
+
+## <a id="Python"></a>Python
+
+* 2019-04-14
   
-  ![打开文件扩展名](https://camo.githubusercontent.com/793c31d81d64f2ed946053fb9bd71aac153550af/68747470733a2f2f706963332e7a68696d672e636f6d2f38302f76322d31333262336135376131626530656565323033373735353239653666336330325f68642e6a7067)
-  - 管理员身份运行
+  - Python Cookbook 第三版 中文版 链接: https://pan.baidu.com/s/1a8--uBwVq4o_hlEavU9W3eg 提取码: d2np 复制这段内容后打开百度网盘手机App，操作更方便哦
+
+## <a id="Docker"></a>Docker
+
+## <a id="Nginx"></a>Nginx
+
+* 2019-01-25 不想去`Nginx`官网注册免费下载 [The Complete NGINX Cookbook 高清免费下载](https://github.com/Rain120/Free-Source/releases/download/0.0.2/The.Complete.NGINX.Cookbook.pdf)
+
+## <a id="Linux"></a>Linux
+
+* 2019-05-12 [深入理解Linux内核(完整版)中文版](https://github.com/Rain120/Free-Source/releases/tag/0.0.15)
+
+## <a id="Machine-Learn"></a>机器学习
+
+## <a id="Deep-Learn"></a>深度学习
+
+## <a id="Interview"></a>面试
+* 2019-12-30 [剑指 Offer: 名企面试官精讲典型编程题 第2版](https://github.com/Rain120/Free-Source/releases/tag/0.0.26) [JS code Github](https://github.com/14glwu/FEInterviewBox) [C++ Code Github](https://github.com/zhedahht/CodingInterviewChinese2)
+
+## <a id="Others"></a>其他资源
+
+## <a id="Applications"></a>应用资源
+
+* 2019-08-16 [Mac Tools](https://github.com/Rain120/Free-Source/tree/master/Mac%20Tools)
+
+* 2019-03-20 [Navicat 12+ 破解教程及工具](https://github.com/Rain120/Free-Source/releases/tag/0.0.8)
+
+* 2020-01-20 [Softorino YouTube Converter_2.1.13.dmg](https://github.com/Rain120/Free-Source/blob/master/Mac%20Tools/Softorino%20YouTube%20Converter_2.1.13.dmg): Mac Youtube 下载工具
+
+* 2020-04-22 Charles 4.5.6
+
+  官网太卡或者破解版下载请到这 链接: https://pan.baidu.com/s/1eIyMy_-a5T4f5hUFw3C9WA 提取码: kbay 复制这段内容后打开百度网盘手机App，操作更方便哦
   
-![管理员身份运行](https://pic2.zhimg.com/80/v2-a8edacb5e790ccae2819e58286f5763f_hd.jpg)
-  - 运行ing
+  Charles激活码：
   
-  ![运行ing](https://camo.githubusercontent.com/d3e4ac83c39b927564130d744920215214e49a20/68747470733a2f2f706963342e7a68696d672e636f6d2f38302f76322d36653961353662626130336266633161343765646232373762306630373632355f68642e6a7067)
-  - 运行完成
+    1. Registered Name: https://zhile.io
+
+       License Key: 48891cf209c6d32bf4
   
-  ![运行完成](https://camo.githubusercontent.com/25de5d5a4f35f0cdb01c0c2277ff1209ab6551d5/68747470733a2f2f706963332e7a68696d672e636f6d2f38302f76322d63663437343531316534333433353835613834373162313063393337663231645f68642e6a7067)
-  - 激活完成
+  [更多版本](https://www.macwk.com/soft/charles)
+
+
+* 2020-03-26 XMind ZEN
+
+  * Windows 链接: https://pan.baidu.com/s/1DN2M4CikDp4zGjA_8UI_VQ 提取码: h4uj 复制这段内容后打开百度网盘手机App，操作更方便哦
   
-   ![激活完成](https://pic4.zhimg.com/80/v2-df6d0820be380896756cdf913b91baa7_hd.jpg)
+  * Mac 链接: https://pan.baidu.com/s/1zQgRe2FMmwI3jlC32BsFvg 提取码: pn6t 复制这段内容后打开百度网盘手机App，操作更方便哦
+  
+* 2020-04-10 Omni Graffle
+
+  * Link1 链接: https://pan.baidu.com/s/1MVELRq1jbzG4VPDevba2NA 提取码: 4epd 复制这段内容后打开百度网盘手机App，操作更方便哦
+  
+  * Link2 链接: https://pan.baidu.com/s/1K65rQT82we86lv6zxbZ_tg 提取码: erzq 复制这段内容后打开百度网盘手机App，操作更方便哦
+
+## <a id="Crack-Tutorial"></a>破解教程
+
+* 2019-01-18 无需密钥，免费激活[win10](https://github.com/Rain120/Free-Source/tree/master/windows%2010)，[win8, win8.1](https://github.com/Rain120/Free-Source/tree/master/window%208%20or%208.1)
+
+* 2019-05-15 [Office 破解教程](https://github.com/Rain120/Free-Source/tree/master/office%20%E7%A0%B4%E8%A7%A3%E6%95%99%E7%A8%8B) Eg: [office 2016专业版激活教程](https://github.com/Rain120/Free-Source/tree/master/office%20%E7%A0%B4%E8%A7%A3%E6%95%99%E7%A8%8B)
+
