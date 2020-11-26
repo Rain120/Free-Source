@@ -1,5 +1,12 @@
 [Mac 效率神器 - 葵花宝典](https://rain120.github.io/study-notes/#/resources/mac-software)
 
+[XMind Zen 10+](https://github.com/Rain120/Free-Source/releases/tag/0.0.28)
+
+[Navicat Premium 15.0.20.1 免注册码](https://github.com/Rain120/Free-Source/releases/tag/0.0.27)
+
+[Photo Zoom Pro 8 专业版本 激活版本](https://github.com/Rain120/Free-Source/releases/tag/0.0.25)
+
+[OmniGraffle Pro_7.15](https://github.com/Rain120/Free-Source/releases/tag/0.0.29)
 #### 提示：'软件已损坏，打不开' 或 '不是Mac Appstore下载'
 
 ```sh
